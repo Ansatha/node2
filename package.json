@@ -1,0 +1,18 @@
+{
+  "name": "promises",
+  "version": "1.0.0",
+  "description": "Test use of promises .then-.catch / async-await",
+  "main": "reto3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "promises"
+  ],
+  "author": "ansatha",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^10.0.0",
+    "readline": "^1.3.0"
+  }
+}
